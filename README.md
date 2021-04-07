@@ -1,6 +1,6 @@
 ## Приложение для поиска компаньона для путешествий
 
-<a href="https://freeimage.host/i/qukIeV"><img src="https://iili.io/qukIeV.th.png" alt="qukIeV.th.png" border="0"></a>
+<img width="1334" alt="qukIeV" src="https://user-images.githubusercontent.com/71708841/112115335-1d876800-8bca-11eb-8188-c875a9912467.png" style="max-width:100%;">
 
 Пользователи могут легко создавать поездки, просто отмечая основные пункты назначения на карте. Или присоединиться к уже созданным маршрутам.
 
