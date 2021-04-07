@@ -4,5 +4,5 @@
 
 Пользователи могут легко создавать поездки, просто отмечая основные пункты назначения на карте. Или присоединиться к уже созданным маршрутам.
 
-<a href="https://freeimage.host/i/qukAzP"><img src="https://iili.io/qukAzP.th.png" alt="qukAzP.th.png" border="0"></a>
+<img width="1322" alt="qukAzP" src="https://user-images.githubusercontent.com/71708841/112115366-2841fd00-8bca-11eb-99c1-6be131ed5d38.png" style="max-width:100%;">
 
