@@ -1,4 +1,4 @@
-##### Приложение для поиска компаньона для путешествий
+## Приложение для поиска компаньона для путешествий
 
 <a href="https://freeimage.host/i/qukIeV"><img src="https://iili.io/qukIeV.th.png" alt="qukIeV.th.png" border="0"></a>
 
